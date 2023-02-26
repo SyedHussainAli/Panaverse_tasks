@@ -1,3 +1,4 @@
+"use strict";
 console.log("Program 1:");
 //Addition
 console.log("Addidion");
@@ -17,5 +18,5 @@ console.log(16 / 2);
 console.log(24 / 3);
 console.log("Program 2:");
 //Fav. Number
-var myFavNumber = 13;
+let myFavNumber = 13;
 console.log("My favorite number is " + myFavNumber + ". It is My DOB.");

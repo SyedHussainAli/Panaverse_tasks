@@ -1,3 +1,4 @@
-var nameFriend = "Saeed";
-var message = "Hi " + nameFriend + ", How are you?";
+"use strict";
+let nameFriend = "Saeed";
+let message = "Hi " + nameFriend + ", How are you?";
 console.log(message);

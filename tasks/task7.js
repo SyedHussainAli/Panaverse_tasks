@@ -1,3 +1,4 @@
+"use strict";
 //Addition
 console.log("Addidion");
 console.log(4 + 4);
